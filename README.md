@@ -1,4 +1,4 @@
-# Optimization-Uncapacitated-Facility-Location
+# Optimization: Uncapacitated Facility Location
 
 UFL and UFL_ALT contains code to solve this problem to optimality using CPLEX Concert Technology.
 
